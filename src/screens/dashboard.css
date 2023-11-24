@@ -1,0 +1,10 @@
+.all{
+    display: flex;
+    background-color: rgb(244, 213, 167);
+}
+
+section section{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(244, 213, 167);
+}

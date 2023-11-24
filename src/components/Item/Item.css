@@ -1,0 +1,22 @@
+section{
+    background-image:url("https://i.pinimg.com/564x/ae/69/9f/ae699fbc5165e894beed2d25804f82c0.jpg");
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    border-radius: 20px;
+    width: 20vw;
+    padding: 12px;
+    margin: 12px;
+    text-align: center;
+    color: rgb(255, 85, 0);
+}
+
+section h3, section p{
+    margin: 2px;
+}
+
+section img{
+    width: 100%;
+    border-radius: 10px;
+}
